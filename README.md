@@ -3,7 +3,7 @@
 
 Overview : 
 
-This is a two-player chess game implemented in Python using the Pygame library. The game provides a traditional chess experience with a user-friendly graphical interface.
+ - > This is a two-player chess game implemented in Python using the Pygame library. The game provides a traditional chess experience with a user-friendly graphical interface.
 
 Features :
  - > Classic Chess Rules: Enjoy the classic rules of chess with two players taking turns to make their moves.
